@@ -16,14 +16,14 @@ __Display the following information for each brewery__
 ### Build a component that displays the details of a brewery
 - [ ] Name
 - [ ] Address (Street, City, State, Zip)
-- [ ] Map indicating the location latitude and longitude. (Use Google Map React)
-
+- [ ] Map indicating the location latitude and longitude.
 
 
 ## Tech Stack
-- React.js
-- Chakra UI (Bootstrap)
-- Express? 
+- React v17.0.2
+- Chakra UI v1.7.3
+- Open Brewery DB API
+- Heruko
 
 ## API
 https://www.openbrewerydb.org/documentation/02-getbrewery
